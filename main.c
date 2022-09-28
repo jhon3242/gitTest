@@ -7,7 +7,7 @@ int	plus(int a, int b)
 
 int	minus(int a, int b)
 {
-	return (a - b);
+	return (2 * a - b);
 }
 
 int	main(void)
