@@ -2,6 +2,7 @@
 
 int	plus(int a, int b)
 {
+	printf("1\n");
 	return (a + b);
 }
 
