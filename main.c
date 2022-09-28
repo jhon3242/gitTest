@@ -12,7 +12,7 @@ int	minus(int a, int b)
 int	main(void)
 {
 	int	a = 3;
-	int b = 1;
+	int	b = 1;
 
 	printf("plus : %d\n", plus(a, b));
 	printf("minus : %d\n", minus(a, b));
